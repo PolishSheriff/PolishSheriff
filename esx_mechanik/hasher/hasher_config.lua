@@ -1,0 +1,5 @@
+{
+    "files": [
+        "client/main.lua"
+    ]
+}
